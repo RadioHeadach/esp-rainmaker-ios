@@ -17,7 +17,9 @@
 //
 
 import UIKit
+#if canImport(ThreadNetwork)
 import ThreadNetwork
+#endif
 import ESPProvision
 
 @available(iOS 15.0, *)

@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E029E1A4-C662-450A-8D11-9AC2CC166046"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13DDBE66-E142-47FC-9948-6FCC1EC66B7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Devices/DevicesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "640"
+            endingLineNumber = "640"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3975EF76-B9D3-4961-9631-BB2A55FCD093"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Devices/DevicesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "658"
+            endingLineNumber = "658"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07685329-7122-4C52-9723-A10C4F24FF81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Devices/DeviceGroupCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07685329-7122-4C52-9723-A10C4F24FF81 - 21cc9475668e307b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.DeviceGroupCollectionViewCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/Interface/Devices/DeviceGroupCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "3644">
+               </Location>
+               <Location
+                  uuid = "07685329-7122-4C52-9723-A10C4F24FF81 - 21cc9475668e307b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ESP_RainMaker.DeviceGroupCollectionViewCell.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/Interface/Devices/DeviceGroupCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "3740">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC956161-29BC-49B5-BDE6-A3649DC062B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Schedule/Interface/ScheduleListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "refreshScheduleList(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C1065C1-DEB2-465F-9018-E55286D39508"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "getNodes(partialList:nextNodeID:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8366846-9565-4E25-9743-881CAAC3BCE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "getNodes(partialList:nextNodeID:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8366846-9565-4E25-9743-881CAAC3BCE1 - d1401661da3c3f3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.getNodes(partialList: Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, nextNodeID: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+               <Location
+                  uuid = "B8366846-9565-4E25-9743-881CAAC3BCE1 - d1401661da3c3f3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.getNodes(partialList: Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, nextNodeID: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "112"
+                  endingLineNumber = "112"
+                  offsetFromSymbolStart = "1916">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B78BEA6-1410-4C34-8958-74E734092A52"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "getNodes(partialList:nextNodeID:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B78BEA6-1410-4C34-8958-74E734092A52 - d1401661da3c3f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.getNodes(partialList: Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, nextNodeID: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1480">
+               </Location>
+               <Location
+                  uuid = "1B78BEA6-1410-4C34-8958-74E734092A52 - d1401661da3c3f79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.getNodes(partialList: Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, nextNodeID: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A88FFA75-7256-436F-96AB-DC7823A467DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "getNodes(partialList:nextNodeID:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "050B8D81-37A1-4BC4-8BEF-587CB92766F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "getNodes(partialList:nextNodeID:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "050B8D81-37A1-4BC4-8BEF-587CB92766F3 - d1401661da3c3ea0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.getNodes(partialList: Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, nextNodeID: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "050B8D81-37A1-4BC4-8BEF-587CB92766F3 - d1401661da3c3ea0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.getNodes(partialList: Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, nextNodeID: Swift.Optional&lt;Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.Array&lt;ESP_RainMaker.Node&gt;&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "712">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F45B480-3E81-454C-B0CA-6D3630B8AE90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "getNodes(partialList:nextNodeID:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CD2EEA1-F839-45E2-8A9C-BFBA99AE9A08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/SuccessViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "338"
+            endingLineNumber = "338"
+            landmarkName = "sendRequestToAddDevice()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D0C8770-967D-423C-A063-35305F64DD51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "308"
+            endingLineNumber = "308"
+            landmarkName = "addDeviceToUser(parameter:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D0C8770-967D-423C-A063-35305F64DD51 - f9a858059302fc65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.addDeviceToUser(parameter: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "308"
+                  endingLineNumber = "308"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "7D0C8770-967D-423C-A063-35305F64DD51 - f9a858059302fc65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.addDeviceToUser(parameter: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "308"
+                  endingLineNumber = "308"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42F7DB98-2A57-400E-8154-65C031A17C93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/SuccessViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "fetchDeviceAssociationStatus(nodeID:requestID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D50D9C4B-EABD-4351-B3AD-8EEE8ED230B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/SuccessViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "fetchDeviceAssociationStatus(nodeID:requestID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA9E5BBA-E88C-470C-83ED-93031FF48EA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "358"
+            endingLineNumber = "358"
+            landmarkName = "deviceAssociationStatus(nodeID:requestID:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB00EF39-435E-432C-B884-5CFFD3652BAC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "365"
+            endingLineNumber = "365"
+            landmarkName = "deviceAssociationStatus(nodeID:requestID:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87A77B80-DF7B-434A-BDE0-A52C5FAD9ECE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
+            landmarkName = "deviceAssociationStatus(nodeID:requestID:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "87A77B80-DF7B-434A-BDE0-A52C5FAD9ECE - e4ed10f568c6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.deviceAssociationStatus(nodeID: Swift.String, requestID: Swift.String, completionHandler: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "87A77B80-DF7B-434A-BDE0-A52C5FAD9ECE - e4ed10f568c6277a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.deviceAssociationStatus(nodeID: Swift.String, requestID: Swift.String, completionHandler: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "354"
+                  endingLineNumber = "354"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85D74371-6FBE-4A97-8F71-55F95C40F4DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "320"
+            endingLineNumber = "320"
+            landmarkName = "addDeviceToUser(parameter:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "85D74371-6FBE-4A97-8F71-55F95C40F4DE - 2cfd82ce4ba6786e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.addDeviceToUser(parameter: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "320"
+                  endingLineNumber = "320"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "85D74371-6FBE-4A97-8F71-55F95C40F4DE - 2cfd82ce4ba6786e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.addDeviceToUser(parameter: Swift.Dictionary&lt;Swift.String, Swift.String&gt;, completionHandler: (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPNetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "320"
+                  endingLineNumber = "320"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8FA98B2-B7DD-4DFE-920E-8429C35FF2AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "357"
+            endingLineNumber = "357"
+            landmarkName = "deviceAssociationStatus(nodeID:requestID:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8FA98B2-B7DD-4DFE-920E-8429C35FF2AD - e4ed10f568c62717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.deviceAssociationStatus(nodeID: Swift.String, requestID: Swift.String, completionHandler: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "357"
+                  endingLineNumber = "357"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "A8FA98B2-B7DD-4DFE-920E-8429C35FF2AD - 3eccd38dc3764f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;ESP_RainMaker.ESPAPIError&gt;) -&gt; () in ESP_RainMaker.ESPAPIManager.deviceAssociationStatus(nodeID: Swift.String, requestID: Swift.String, completionHandler: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/AWSCognito/ESPAPIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "357"
+                  endingLineNumber = "357"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99081346-FEE9-4D75-9522-69526AE74B4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/ProvisionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "428"
+            endingLineNumber = "428"
+            landmarkName = "deviceAssociationFinishedWith(success:nodeID:error:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99081346-FEE9-4D75-9522-69526AE74B4E - e1dba99f9c12fcf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ESP_RainMaker.ProvisionViewController.deviceAssociationFinishedWith(success: Swift.Bool, nodeID: Swift.Optional&lt;Swift.String&gt;, error: Swift.Optional&lt;ESP_RainMaker.AssociationError&gt;) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/Interface/Provision/ProvisionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "428"
+                  endingLineNumber = "428"
+                  offsetFromSymbolStart = "436">
+               </Location>
+               <Location
+                  uuid = "99081346-FEE9-4D75-9522-69526AE74B4E - e1dba99f9c12fcf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ESP_RainMaker.ProvisionViewController.deviceAssociationFinishedWith(success: Swift.Bool, nodeID: Swift.Optional&lt;Swift.String&gt;, error: Swift.Optional&lt;ESP_RainMaker.AssociationError&gt;) -&gt; ()"
+                  moduleName = "ESP RainMaker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bowjobdavid/Codes/GitHub%20Repos/esp-rainmaker-ios/ESPRainMaker/ESPRainMaker/Interface/Provision/ProvisionViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "428"
+                  endingLineNumber = "428"
+                  offsetFromSymbolStart = "512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91CD932F-1C3D-4098-AED2-E865F5C03C4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/ProvisionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "432"
+            endingLineNumber = "432"
+            landmarkName = "deviceAssociationFinishedWith(success:nodeID:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E3B042B-305A-4093-9716-AAB33DF8DB40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/ProvisionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "435"
+            endingLineNumber = "435"
+            landmarkName = "deviceAssociationFinishedWith(success:nodeID:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F0F0C9D-D30C-47C6-928D-6D53ADEDEEE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/SuccessViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "sendRequestToAddDevice()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C53ADC06-D071-4FEE-A90F-78AF506FDA23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/Interface/Provision/SuccessViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "step4ConfirmNodeAssociation(requestID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19E26825-B103-47FF-9040-993C31C5E84D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ESPRainMaker/UserManagement/Workers/ESPAPIWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "callDataAPI(endPoint:encoding:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

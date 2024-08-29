@@ -11,9 +11,7 @@
 		0C1C7C802760BCCC0062867A /* SceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1C7C7F2760BCCC0062867A /* SceneViewController.swift */; };
 		0C1C7C82276162CC0062867A /* SceneSelectDevicesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C1C7C81276162CC0062867A /* SceneSelectDevicesVC.swift */; };
 		0C2426DB2BF4A597004BDF49 /* ESPNodeGroupSharingAcceptedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2426DA2BF4A597004BDF49 /* ESPNodeGroupSharingAcceptedEvent.swift */; };
-		0C2426DC2BF4A597004BDF49 /* ESPNodeGroupSharingAcceptedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2426DA2BF4A597004BDF49 /* ESPNodeGroupSharingAcceptedEvent.swift */; };
 		0C2426DE2BF4A5B6004BDF49 /* ESPNodeGroupSharingDeclinedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2426DD2BF4A5B6004BDF49 /* ESPNodeGroupSharingDeclinedEvent.swift */; };
-		0C2426DF2BF4A5B6004BDF49 /* ESPNodeGroupSharingDeclinedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2426DD2BF4A5B6004BDF49 /* ESPNodeGroupSharingDeclinedEvent.swift */; };
 		0C2A3D432A39989E0097D16D /* ESPUpdateCATIdService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2A3D422A39989E0097D16D /* ESPUpdateCATIdService.swift */; };
 		0C2A3D452A39A2390097D16D /* DevicesViewController+Matter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2A3D442A39A2390097D16D /* DevicesViewController+Matter.swift */; };
 		0C31C3062BB3F565009ABB22 /* ClusterSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C31C3052BB3F565009ABB22 /* ClusterSelectionViewController.swift */; };
@@ -32,11 +30,9 @@
 		0C387F7E2A2F442A00C5EFA4 /* NotificationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10C2AEB25E584C300B60696 /* NotificationsViewController.swift */; };
 		0C38E60D283E27560031C345 /* ActionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C38E60C283E27560031C345 /* ActionTableViewCell.xib */; };
 		0C38E60F283E279A0031C345 /* ActionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C38E60E283E279A0031C345 /* ActionTableViewCell.swift */; };
-		0C45AC842BA02C5E00BF8FDF /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD359642A2D26000081017C /* Extensions.swift */; };
 		0C4996B32A83ACE700E6D08B /* ESPCustomClusterInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4996B22A83ACE700E6D08B /* ESPCustomClusterInfo.swift */; };
 		0C4996B52A83AD0C00E6D08B /* ESPMTRCommissioner+CustomCluster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4996B42A83AD0C00E6D08B /* ESPMTRCommissioner+CustomCluster.swift */; };
 		0C4BC0452BD8F03B00560463 /* ESPNodeGroupSharingAddEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4BC0442BD8F03B00560463 /* ESPNodeGroupSharingAddEvent.swift */; };
-		0C4BC0462BD8F03B00560463 /* ESPNodeGroupSharingAddEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4BC0442BD8F03B00560463 /* ESPNodeGroupSharingAddEvent.swift */; };
 		0C4BC0482BD8F13E00560463 /* ESPNodeGroupSharingAddEvent+Actions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4BC0472BD8F13E00560463 /* ESPNodeGroupSharingAddEvent+Actions.swift */; };
 		0C4BC0512BD909C500560463 /* DeviceViewController+UIWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4BC0502BD909C500560463 /* DeviceViewController+UIWorker.swift */; };
 		0C50EC8B2A39E2A70065DAB2 /* DeviceViewController+OnOffDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C50EC8A2A39E2A70065DAB2 /* DeviceViewController+OnOffDelegate.swift */; };
@@ -57,9 +53,7 @@
 		0C66B2292AF9350E00BEA3C3 /* ParticipantDataCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C66B2272AF9350E00BEA3C3 /* ParticipantDataCell.swift */; };
 		0C66B22A2AF9350E00BEA3C3 /* ParticipantDataCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C66B2282AF9350E00BEA3C3 /* ParticipantDataCell.xib */; };
 		0C69D72326E9ED4500AF6985 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72126E9ED4400AF6985 /* Node.swift */; };
-		0C69D72426E9ED4500AF6985 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72126E9ED4400AF6985 /* Node.swift */; };
 		0C69D72526E9ED4500AF6985 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72226E9ED4400AF6985 /* Device.swift */; };
-		0C69D72626E9ED4500AF6985 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72226E9ED4400AF6985 /* Device.swift */; };
 		0C69D72826E9ED9800AF6985 /* NodeExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72726E9ED9800AF6985 /* NodeExtension.swift */; };
 		0C6FE3BB2A6522C800AB3194 /* DevicesViewController+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6FE3BA2A6522C800AB3194 /* DevicesViewController+Navigation.swift */; };
 		0C6FE3BD2A667ACD00AB3194 /* ESPMatterFabricDetails+NodeGroupSharingData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6FE3BC2A667ACD00AB3194 /* ESPMatterFabricDetails+NodeGroupSharingData.swift */; };
@@ -76,7 +70,6 @@
 		0C75B2602A30739600BB4661 /* BindingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C75B2522A30739500BB4661 /* BindingTableViewCell.swift */; };
 		0C75B2612A30739600BB4661 /* ParamSliderTableViewCell+ParamSliderColorControlProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C75B2532A30739500BB4661 /* ParamSliderTableViewCell+ParamSliderColorControlProtocol.swift */; };
 		0C75B2622A30739600BB4661 /* DeviceViewController+TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C75B2542A30739500BB4661 /* DeviceViewController+TableView.swift */; };
-		0C78CFFD2A5ED48000BF87EC /* ESPConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F160AF1B26B7508C00578F00 /* ESPConfiguration.swift */; };
 		0C80AA2226FDBD4B00480C53 /* ESPPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C80AA0D26FDBD4B00480C53 /* ESPPresenter.swift */; };
 		0C80AA2326FDBD4B00480C53 /* ESPProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C80AA0F26FDBD4B00480C53 /* ESPProtocol.swift */; };
 		0C80AA2426FDBD4B00480C53 /* ESPAPIEndPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C80AA1026FDBD4B00480C53 /* ESPAPIEndPoint.swift */; };
@@ -133,12 +126,6 @@
 		0CBAC3C5278AD02A003E34E2 /* SelectDeviceActionCellDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CBAC3C4278AD02A003E34E2 /* SelectDeviceActionCellDelegate.swift */; };
 		0CC79253265BCDDF00C2CDF6 /* ScheduleSceneActionAllowedProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC79252265BCDDE00C2CDF6 /* ScheduleSceneActionAllowedProtocol.swift */; };
 		0CC91FFB2B3BCAEE00EAC1E7 /* ParamSliderTableViewCell+ParamSliderCoolingControlProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC91FFA2B3BCAEE00EAC1E7 /* ParamSliderTableViewCell+ParamSliderCoolingControlProtocol.swift */; };
-		0CCD2FB22A121C7B00ABB680 /* RequestHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCD2FB12A121C7B00ABB680 /* RequestHandler.swift */; };
-		0CCD2FB62A121C7B00ABB680 /* MatterExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 0CCD2FAF2A121C7B00ABB680 /* MatterExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		0CCD2FBD2A121C9300ABB680 /* ESPMatterExtDeviceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCD2FB92A121C9200ABB680 /* ESPMatterExtDeviceManager.swift */; };
-		0CCD2FBE2A121C9300ABB680 /* ESPMatterExtensionEcoInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCD2FBA2A121C9200ABB680 /* ESPMatterExtensionEcoInfo.swift */; };
-		0CCD2FBF2A121C9300ABB680 /* ESPMatterExtLocalStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CCD2FBB2A121C9200ABB680 /* ESPMatterExtLocalStorage.swift */; };
-		0CCD30112A121E8400ABB680 /* MatterSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CCD30102A121E8400ABB680 /* MatterSupport.framework */; };
 		0CD359192A2D25E30081017C /* ESPMatterAPIEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD359022A2D25E20081017C /* ESPMatterAPIEndpoint.swift */; };
 		0CD3591A2A2D25E30081017C /* NodeGroupSharingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD359042A2D25E20081017C /* NodeGroupSharingManager.swift */; };
 		0CD3591B2A2D25E30081017C /* ESPAddNodeToFabricResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD359072A2D25E20081017C /* ESPAddNodeToFabricResponse.swift */; };
@@ -196,7 +183,6 @@
 		0CD359982A2D3F020081017C /* ESPSharingRequests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD359942A2D3CC80081017C /* ESPSharingRequests.swift */; };
 		0CD3599E2A2D47B20081017C /* DeviceCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0CD3599C2A2D47B20081017C /* DeviceCollectionViewCell.xib */; };
 		0CD3599F2A2D47B20081017C /* DeviceCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD3599D2A2D47B20081017C /* DeviceCollectionViewCell.swift */; };
-		0CD359A02A2D49E60081017C /* NodeExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72726E9ED9800AF6985 /* NodeExtension.swift */; };
 		0CD82F5F2864494D0025E631 /* ESPAutomationAddResponseParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14CAF48283B5B75008CBC00 /* ESPAutomationAddResponseParser.swift */; };
 		0CDDC34A27E89D50004F9486 /* UILabel+GetViewHeight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDDC34927E89D50004F9486 /* UILabel+GetViewHeight.swift */; };
 		0CE324B72B90631100D6682E /* DeviceViewController+CustomActionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CE324B42B90631000D6682E /* DeviceViewController+CustomActionDelegate.swift */; };
@@ -233,7 +219,8 @@
 		143146B320EB22470017E119 /* ProvisionLandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143146B220EB22470017E119 /* ProvisionLandingViewController.swift */; };
 		143146B520EB273B0017E119 /* ProvisionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 143146B420EB273B0017E119 /* ProvisionViewController.swift */; };
 		144149442126AE09002AD5E1 /* SuccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 144149432126AE09002AD5E1 /* SuccessViewController.swift */; };
-		2145B87F01D00671F6028FCC /* Pods_ESPRainMaker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E78E823824B7739458B5136 /* Pods_ESPRainMaker.framework */; };
+		26DB23B72C801AA9003903A9 /* DebuggingNetwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26DB23B62C801AA9003903A9 /* DebuggingNetwork.swift */; };
+		384640AEE55B18767A17D395 /* Pods_ESPRainMaker.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 948530E50057673AB1142B66 /* Pods_ESPRainMaker.framework */; };
 		F1012F62251110B300839F06 /* Schedule.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1012F61251110B300839F06 /* Schedule.storyboard */; };
 		F1072BC5256F9BD400D7CE2C /* BLELandingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1072BC3256F9BD300D7CE2C /* BLELandingViewController.swift */; };
 		F1072BC6256F9BD400D7CE2C /* BLEDeviceListViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1072BC4256F9BD300D7CE2C /* BLEDeviceListViewCell.swift */; };
@@ -258,11 +245,8 @@
 		F1124F5D268CF58100FA0B9E /* ESPNotificationHandler+Actions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F5C268CF58100FA0B9E /* ESPNotificationHandler+Actions.swift */; };
 		F1124F5F268CFDB400FA0B9E /* ESPNotificationKeys+Additional.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F5E268CFDB400FA0B9E /* ESPNotificationKeys+Additional.swift */; };
 		F1124F64268D099300FA0B9E /* ESPNodeSharingAcceptedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F63268D099200FA0B9E /* ESPNodeSharingAcceptedEvent.swift */; };
-		F1124F65268D099300FA0B9E /* ESPNodeSharingAcceptedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F63268D099200FA0B9E /* ESPNodeSharingAcceptedEvent.swift */; };
 		F1124F67268D0A0900FA0B9E /* ESPNodeSharingDeclinedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F66268D0A0900FA0B9E /* ESPNodeSharingDeclinedEvent.swift */; };
-		F1124F68268D0A0900FA0B9E /* ESPNodeSharingDeclinedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F66268D0A0900FA0B9E /* ESPNodeSharingDeclinedEvent.swift */; };
 		F1124F6A268D0AAA00FA0B9E /* ESPNodeAlertEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F69268D0AAA00FA0B9E /* ESPNodeAlertEvent.swift */; };
-		F1124F6B268D0AAD00FA0B9E /* ESPNodeAlertEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1124F69268D0AAA00FA0B9E /* ESPNodeAlertEvent.swift */; };
 		F1153F2A238E5E79009DF206 /* NetworkExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1153F29238E5E79009DF206 /* NetworkExtension.framework */; };
 		F117CDEF252C75CD00ADB856 /* ESPLocalControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F117CDEE252C75CD00ADB856 /* ESPLocalControl.swift */; };
 		F119C3F2265EAF73006F4088 /* VoiceServicesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F119C3F1265EAF6F006F4088 /* VoiceServicesViewController.swift */; };
@@ -305,7 +289,6 @@
 		F13F273E238CF6170003AABB /* ScannerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13F273D238CF6170003AABB /* ScannerViewController.swift */; };
 		F1402AB8239677B300C989F8 /* StaticControlTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1402AB6239677B300C989F8 /* StaticControlTableViewCell.swift */; };
 		F1402AB9239677B300C989F8 /* StaticControlTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1402AB7239677B300C989F8 /* StaticControlTableViewCell.xib */; };
-		F14491D526C52A5A008817C7 /* Configuration.plist in Resources */ = {isa = PBXBuildFile; fileRef = F164A2F82581E73000B879BC /* Configuration.plist */; };
 		F14CAF53283DF46A008CBC00 /* SystemServicesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14CAF52283DF469008CBC00 /* SystemServicesTableViewCell.swift */; };
 		F151FEE0246E874F006F514E /* esp_rmaker_user_mapping.pb.swift in Sources */ = {isa = PBXBuildFile; fileRef = F151FEDF246E874E006F514E /* esp_rmaker_user_mapping.pb.swift */; };
 		F151FF1E24827343006F514E /* WifiListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F151FF1D24827343006F514E /* WifiListTableViewCell.swift */; };
@@ -318,8 +301,6 @@
 		F160AF1C26B7508C00578F00 /* ESPConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F160AF1B26B7508C00578F00 /* ESPConfiguration.swift */; };
 		F164A2F92581E73000B879BC /* Configuration.plist in Resources */ = {isa = PBXBuildFile; fileRef = F164A2F82581E73000B879BC /* Configuration.plist */; };
 		F164A30825824EC700B879BC /* Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F164A30725824EC500B879BC /* Configuration.swift */; };
-		F1676F88269626F9005C22CB /* ESPNotifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18744222695F52E00971591 /* ESPNotifications.swift */; };
-		F1676F89269735B4005C22CB /* ESPNotificationsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18744242696087900971591 /* ESPNotificationsStore.swift */; };
 		F168F2CB28E44DC200E39433 /* UITableView+ScrollToBottom.swift in Sources */ = {isa = PBXBuildFile; fileRef = F168F2CA28E44DC200E39433 /* UITableView+ScrollToBottom.swift */; };
 		F16A9F5329CC66D30009F839 /* Date+Seconds.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16A9F5229CC66D20009F839 /* Date+Seconds.swift */; };
 		F16BD3682758FDC20089049C /* ESPTSArguments.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16BD3672758FDC20089049C /* ESPTSArguments.swift */; };
@@ -364,47 +345,7 @@
 		F1924C36282AB7DC00E13FC8 /* ESPAutomationResponseParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1924C35282AB7DC00E13FC8 /* ESPAutomationResponseParser.swift */; };
 		F1943A7724C9DF230001564A /* ESPDays.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1943A7624C9DF230001564A /* ESPDays.swift */; };
 		F194B60A22CDD83200417347 /* DeviceListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F194B60922CDD83200417347 /* DeviceListTableViewCell.swift */; };
-		F1950ED42A3B9AD60091FDAA /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1950ED32A3B9AD50091FDAA /* WidgetKit.framework */; };
-		F1950ED62A3B9AD60091FDAA /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1950ED52A3B9AD60091FDAA /* SwiftUI.framework */; };
-		F1950ED92A3B9AD60091FDAA /* RMWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950ED82A3B9AD60091FDAA /* RMWidgetBundle.swift */; };
-		F1950EDB2A3B9AD60091FDAA /* RMWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950EDA2A3B9AD60091FDAA /* RMWidget.swift */; };
-		F1950EDE2A3B9AD90091FDAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1950EDD2A3B9AD90091FDAA /* Assets.xcassets */; };
-		F1950EE02A3B9AD90091FDAA /* RMWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = F1950EDC2A3B9AD60091FDAA /* RMWidget.intentdefinition */; };
 		F1950EE12A3B9AD90091FDAA /* RMWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = F1950EDC2A3B9AD60091FDAA /* RMWidget.intentdefinition */; };
-		F1950EE42A3B9AD90091FDAA /* RMWidgetExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = F1950ED22A3B9AD50091FDAA /* RMWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		F1950EE92A3B9C300091FDAA /* RMWidgetEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950EE72A3B9BEA0091FDAA /* RMWidgetEntryView.swift */; };
-		F1950EF02A3B9CAB0091FDAA /* Intents.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1950EEF2A3B9CAB0091FDAA /* Intents.framework */; };
-		F1950EF32A3B9CAB0091FDAA /* IntentHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950EF22A3B9CAB0091FDAA /* IntentHandler.swift */; };
-		F1950EF72A3B9CAB0091FDAA /* SelectDeviceIntent.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = F1950EEE2A3B9CAB0091FDAA /* SelectDeviceIntent.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		F1950EFB2A3B9D1D0091FDAA /* RMIntentConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950EFA2A3B9D1D0091FDAA /* RMIntentConstants.swift */; };
-		F1950EFC2A3B9D640091FDAA /* RMIntentConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950EFA2A3B9D1D0091FDAA /* RMIntentConstants.swift */; };
-		F1950EFD2A3B9E0B0091FDAA /* NodeExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72726E9ED9800AF6985 /* NodeExtension.swift */; };
-		F1950EFE2A3B9E0E0091FDAA /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72226E9ED4400AF6985 /* Device.swift */; };
-		F1950EFF2A3B9E100091FDAA /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72126E9ED4400AF6985 /* Node.swift */; };
-		F1950F002A3B9E130091FDAA /* Attribute.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F45151232B7ECB0009DCE0 /* Attribute.swift */; };
-		F1950F012A3B9E150091FDAA /* Attribute.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F45151232B7ECB0009DCE0 /* Attribute.swift */; };
-		F1950F022A3B9E180091FDAA /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72126E9ED4400AF6985 /* Node.swift */; };
-		F1950F032A3B9E1A0091FDAA /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72226E9ED4400AF6985 /* Device.swift */; };
-		F1950F042A3B9E1D0091FDAA /* NodeExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C69D72726E9ED9800AF6985 /* NodeExtension.swift */; };
-		F1950F052A3B9E590091FDAA /* Int+ShortDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D682688A8D8009E217D /* Int+ShortDate.swift */; };
-		F1950F062A3B9E590091FDAA /* Int+ShortDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D682688A8D8009E217D /* Int+ShortDate.swift */; };
-		F1950F072A3B9E640091FDAA /* ESPLocalStorageNodes+DeviceList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D6A2688AAB2009E217D /* ESPLocalStorageNodes+DeviceList.swift */; };
-		F1950F082A3B9E650091FDAA /* ESPLocalStorageNodes+DeviceList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D6A2688AAB2009E217D /* ESPLocalStorageNodes+DeviceList.swift */; };
-		F1950F092A3B9E670091FDAA /* ESPLocalStorageNodes+GetNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C352CC26D56CC800A88893 /* ESPLocalStorageNodes+GetNode.swift */; };
-		F1950F0A2A3B9E680091FDAA /* ESPLocalStorageNodes+GetNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C352CC26D56CC800A88893 /* ESPLocalStorageNodes+GetNode.swift */; };
-		F1950F0B2A3B9E730091FDAA /* ESPLocalStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D61268871F2009E217D /* ESPLocalStorage.swift */; };
-		F1950F0C2A3B9E730091FDAA /* ESPLocalStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D61268871F2009E217D /* ESPLocalStorage.swift */; };
-		F1950F0D2A3B9E770091FDAA /* ESPLocalStorageProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D5F2688664C009E217D /* ESPLocalStorageProtocol.swift */; };
-		F1950F0E2A3B9E770091FDAA /* ESPLocalStorageProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D5F2688664C009E217D /* ESPLocalStorageProtocol.swift */; };
-		F1950F0F2A3B9E7A0091FDAA /* ESPLocalStorageNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D65268875A7009E217D /* ESPLocalStorageNodes.swift */; };
-		F1950F102A3B9E7A0091FDAA /* ESPLocalStorageNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D65268875A7009E217D /* ESPLocalStorageNodes.swift */; };
-		F1950F112A3B9E920091FDAA /* RMWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = F1950EDC2A3B9AD60091FDAA /* RMWidget.intentdefinition */; };
-		F1950F122A3B9F360091FDAA /* ESPConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F160AF1B26B7508C00578F00 /* ESPConfiguration.swift */; };
-		F1950F132A3B9F370091FDAA /* ESPConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F160AF1B26B7508C00578F00 /* ESPConfiguration.swift */; };
-		F1950F162A3BB93A0091FDAA /* Configuration.plist in Resources */ = {isa = PBXBuildFile; fileRef = F164A2F82581E73000B879BC /* Configuration.plist */; };
-		F1950F172A3BB93B0091FDAA /* Configuration.plist in Resources */ = {isa = PBXBuildFile; fileRef = F164A2F82581E73000B879BC /* Configuration.plist */; };
-		F1950F192A4044320091FDAA /* NSNumber+ShortDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950F182A4044320091FDAA /* NSNumber+ShortDate.swift */; };
-		F1950F1A2A4044380091FDAA /* NSNumber+ShortDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1950F182A4044320091FDAA /* NSNumber+ShortDate.swift */; };
 		F195745925B5AD09005F6601 /* MembersInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F195745725B5AD09005F6601 /* MembersInfoTableViewCell.swift */; };
 		F195745A25B5AD09005F6601 /* MembersInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F195745825B5AD09005F6601 /* MembersInfoTableViewCell.xib */; };
 		F195746625B69DDB005F6601 /* NodeDetailsHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F195746525B69DDB005F6601 /* NodeDetailsHeaderView.swift */; };
@@ -416,7 +357,6 @@
 		F19A9D1822C0ED4C00A450C3 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19A9D1422C0ED4C00A450C3 /* ForgotPasswordViewController.swift */; };
 		F19A9D1922C0ED4C00A450C3 /* ResetPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19A9D1522C0ED4C00A450C3 /* ResetPasswordViewController.swift */; };
 		F19A9D1B22C0ED4C00A450C3 /* ConfirmSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19A9D1722C0ED4C00A450C3 /* ConfirmSignUpViewController.swift */; };
-		F19EF8B22684640100CC7D3E /* Attribute.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F45151232B7ECB0009DCE0 /* Attribute.swift */; };
 		F19F6FF322F02B3400C70DE3 /* SettingsPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19F6FF222F02B3400C70DE3 /* SettingsPageViewController.swift */; };
 		F19F6FF522F45A1500C70DE3 /* DeviceListTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19F6FF422F45A1500C70DE3 /* DeviceListTableView.swift */; };
 		F1A057AE278DF8E400485C23 /* UIView+DropShadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A057AD278DF8E400485C23 /* UIView+DropShadow.swift */; };
@@ -440,8 +380,6 @@
 		F1AC6D8327AA4CB20051F6E7 /* ScheduleTriggerTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AC6D8227AA4CB20051F6E7 /* ScheduleTriggerTableViewCell.swift */; };
 		F1AC6D8B27AD54490051F6E7 /* ESPRMDeviceType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AC6D8A27AD54490051F6E7 /* ESPRMDeviceType.swift */; };
 		F1AC6D8D27AD54700051F6E7 /* ESPRMDeviceType+GetImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AC6D8C27AD54700051F6E7 /* ESPRMDeviceType+GetImage.swift */; };
-		F1AE33C6263611B300694B52 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AE33C5263611B300694B52 /* NotificationService.swift */; };
-		F1AE33CA263611B300694B52 /* ESPRainMakerPushNotificationExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = F1AE33C3263611B300694B52 /* ESPRainMakerPushNotificationExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		F1AFB2562720320200418969 /* DeleteAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AFB2552720320200418969 /* DeleteAccountViewController.swift */; };
 		F1AFB25A2721F98D00418969 /* UserAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AFB2592721F98D00418969 /* UserAccountViewController.swift */; };
 		F1AFB25C2721FEAF00418969 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AFB25B2721FEAF00418969 /* AboutViewController.swift */; };
@@ -449,15 +387,11 @@
 		F1B1011C269EC627004B5537 /* Double+DateTimeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1011B269EC627004B5537 /* Double+DateTimeString.swift */; };
 		F1B1011E26A06867004B5537 /* ESPNodeDisassociatedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1011D26A06866004B5537 /* ESPNodeDisassociatedEvent.swift */; };
 		F1B1012026A47105004B5537 /* ESPNotificationKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1011F26A47105004B5537 /* ESPNotificationKeys.swift */; };
-		F1B1012126A47111004B5537 /* ESPNotificationKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1011F26A47105004B5537 /* ESPNotificationKeys.swift */; };
 		F1B1012326A70D52004B5537 /* ESPNodeAssociatedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1012226A70D52004B5537 /* ESPNodeAssociatedEvent.swift */; };
-		F1B1012426A7648F004B5537 /* ESPNodeAssociatedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1012226A70D52004B5537 /* ESPNodeAssociatedEvent.swift */; };
-		F1B1012526A764E6004B5537 /* ESPNodeDisassociatedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1011D26A06866004B5537 /* ESPNodeDisassociatedEvent.swift */; };
 		F1B1012926AEFD52004B5537 /* UserNavigationHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1012826AEFD52004B5537 /* UserNavigationHandler.swift */; };
 		F1B1012B26AF4791004B5537 /* DevicesNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1012A26AF4790004B5537 /* DevicesNavigationController.swift */; };
 		F1B13AD823D85125006DD949 /* ChangePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B13AD723D85125006DD949 /* ChangePasswordViewController.swift */; };
 		F1B2D21927F6D64D00AE143D /* ESPAutomationTriggerEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B2D21827F6D64D00AE143D /* ESPAutomationTriggerEvent.swift */; };
-		F1B2D21A27F6D64D00AE143D /* ESPAutomationTriggerEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B2D21827F6D64D00AE143D /* ESPAutomationTriggerEvent.swift */; };
 		F1B3558923B8DC4C004552FC /* ExtensionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B3558823B8DC4C004552FC /* ExtensionManager.swift */; };
 		F1BBD465255C1EE900CB0F42 /* SpinnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BBD464255C1EE900CB0F42 /* SpinnerView.swift */; };
 		F1BDFED127DCCF92005AF812 /* ESPAutomationParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1BDFED027DCCF92005AF812 /* ESPAutomationParser.swift */; };
@@ -474,30 +408,19 @@
 		F1C2DE622744DB120037EB3F /* ESPChartsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C2DE612744DB120037EB3F /* ESPChartsViewController.swift */; };
 		F1C352CB26D4E92600A88893 /* ESPNotificationHandler+UpdateData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C352CA26D4E92500A88893 /* ESPNotificationHandler+UpdateData.swift */; };
 		F1C352CD26D56CC800A88893 /* ESPLocalStorageNodes+GetNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C352CC26D56CC800A88893 /* ESPLocalStorageNodes+GetNode.swift */; };
-		F1C352CE26D56CC800A88893 /* ESPLocalStorageNodes+GetNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C352CC26D56CC800A88893 /* ESPLocalStorageNodes+GetNode.swift */; };
 		F1C352D026DBC40900A88893 /* ESPLocalDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C352CF26DBC40900A88893 /* ESPLocalDevice.swift */; };
 		F1C76D522687C6AF009E217D /* ESPNotificationProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D512687C6AF009E217D /* ESPNotificationProtocol.swift */; };
 		F1C76D542687C7B0009E217D /* ESPNotificationEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D532687C7B0009E217D /* ESPNotificationEvent.swift */; };
 		F1C76D592687D463009E217D /* ESPNotificationHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D582687D463009E217D /* ESPNotificationHandler.swift */; };
-		F1C76D5E2687E2B8009E217D /* ESPNodeConnectedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D562687CBBA009E217D /* ESPNodeConnectedEvent.swift */; };
 		F1C76D602688664D009E217D /* ESPLocalStorageProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D5F2688664C009E217D /* ESPLocalStorageProtocol.swift */; };
 		F1C76D62268871F3009E217D /* ESPLocalStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D61268871F2009E217D /* ESPLocalStorage.swift */; };
 		F1C76D64268872C9009E217D /* ESPLocalStorageSchedules.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D63268872C9009E217D /* ESPLocalStorageSchedules.swift */; };
 		F1C76D66268875A7009E217D /* ESPLocalStorageNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D65268875A7009E217D /* ESPLocalStorageNodes.swift */; };
 		F1C76D692688A8D8009E217D /* Int+ShortDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D682688A8D8009E217D /* Int+ShortDate.swift */; };
-		F1C76D6C2688ABE9009E217D /* ESPLocalStorageProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D5F2688664C009E217D /* ESPLocalStorageProtocol.swift */; };
-		F1C76D6D2688ABEE009E217D /* ESPLocalStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D61268871F2009E217D /* ESPLocalStorage.swift */; };
-		F1C76D6E2688ABF2009E217D /* ESPLocalStorageNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D65268875A7009E217D /* ESPLocalStorageNodes.swift */; };
-		F1C76D702688AC34009E217D /* Int+ShortDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D682688A8D8009E217D /* Int+ShortDate.swift */; };
 		F1C76D732688AE55009E217D /* ESPLocalStorageNodes+DeviceList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D6A2688AAB2009E217D /* ESPLocalStorageNodes+DeviceList.swift */; };
 		F1C76D752688AE6B009E217D /* ESPNodeConnectedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D562687CBBA009E217D /* ESPNodeConnectedEvent.swift */; };
 		F1C76D7C2688D742009E217D /* ESPSilentNotificationHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D7B2688D742009E217D /* ESPSilentNotificationHandler.swift */; };
 		F1C76D7E2689848A009E217D /* Array<String>+CombinedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D7D2689848A009E217D /* Array<String>+CombinedString.swift */; };
-		F1C76D7F2689848B009E217D /* Array<String>+CombinedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D7D2689848A009E217D /* Array<String>+CombinedString.swift */; };
-		F1C76D80268986DA009E217D /* ESPNotificationEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D532687C7B0009E217D /* ESPNotificationEvent.swift */; };
-		F1C76D82268986F1009E217D /* ESPNotificationProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D512687C6AF009E217D /* ESPNotificationProtocol.swift */; };
-		F1C76D83268986F3009E217D /* ESPLocalStorageNodes+DeviceList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D6A2688AAB2009E217D /* ESPLocalStorageNodes+DeviceList.swift */; };
-		F1C76D842689870C009E217D /* ESPNotificationHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C76D582687D463009E217D /* ESPNotificationHandler.swift */; };
 		F1C8082C22CA17790098F3B4 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C8082B22CA17790098F3B4 /* NetworkManager.swift */; };
 		F1C8F406260CDA3800A79767 /* ESPCustomJsonEncoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C8F405260CDA3800A79767 /* ESPCustomJsonEncoder.swift */; };
 		F1CA0C7E2579F27D0085E19A /* ParamSliderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1CA0C7D2579F27D0085E19A /* ParamSliderTableViewCell.swift */; };
@@ -541,9 +464,7 @@
 		F1DD70A622A8EA2A0092DAB9 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DD70A522A8EA2A0092DAB9 /* Constants.swift */; };
 		F1DE5D092513621200973E30 /* ESPScheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F107AB3624CEC979008DB9CD /* ESPScheduler.swift */; };
 		F1DF2E32268ADB8300D3C8D6 /* ESPNodeDisconnectedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DF2E31268ADB8300D3C8D6 /* ESPNodeDisconnectedEvent.swift */; };
-		F1DF2E33268ADB8300D3C8D6 /* ESPNodeDisconnectedEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DF2E31268ADB8300D3C8D6 /* ESPNodeDisconnectedEvent.swift */; };
 		F1DF2E35268AF7A400D3C8D6 /* ESPNodeSharingAddEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DF2E34268AF7A400D3C8D6 /* ESPNodeSharingAddEvent.swift */; };
-		F1DF2E36268AF7A400D3C8D6 /* ESPNodeSharingAddEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DF2E34268AF7A400D3C8D6 /* ESPNodeSharingAddEvent.swift */; };
 		F1DF2E3B268CA8F000D3C8D6 /* ESPLocalStorageNodeGroups.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1DF2E3A268CA8F000D3C8D6 /* ESPLocalStorageNodeGroups.swift */; };
 		F1E132B52680C34700ED7E03 /* AppDelegate+Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E132B42680C34700ED7E03 /* AppDelegate+Notifications.swift */; };
 		F1E37E9323D6CF4800A5043F /* PasswordTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E37E9223D6CF4700A5043F /* PasswordTextField.swift */; };
@@ -579,34 +500,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0CCD2FB42A121C7B00ABB680 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 1431461B20DE994B0017E119 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 0CCD2FAE2A121C7B00ABB680;
-			remoteInfo = MatterExtension;
-		};
-		F1950EE22A3B9AD90091FDAA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 1431461B20DE994B0017E119 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F1950ED12A3B9AD50091FDAA;
-			remoteInfo = RMWidgetExtension;
-		};
-		F1950EF52A3B9CAB0091FDAA /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 1431461B20DE994B0017E119 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F1950EED2A3B9CAB0091FDAA;
-			remoteInfo = SelectDeviceIntent;
-		};
-		F1AE33C8263611B300694B52 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 1431461B20DE994B0017E119 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F1AE33C2263611B300694B52;
-			remoteInfo = ESPRainMakerPushNotificationExtension;
-		};
 		F1C611A824F79804007EEFC6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 1431461B20DE994B0017E119 /* Project object */;
@@ -633,10 +526,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				F1950EF72A3B9CAB0091FDAA /* SelectDeviceIntent.appex in Embed App Extensions */,
-				F1AE33CA263611B300694B52 /* ESPRainMakerPushNotificationExtension.appex in Embed App Extensions */,
-				0CCD2FB62A121C7B00ABB680 /* MatterExtension.appex in Embed App Extensions */,
-				F1950EE42A3B9AD90091FDAA /* RMWidgetExtension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -773,7 +662,6 @@
 		0CBAC3C4278AD02A003E34E2 /* SelectDeviceActionCellDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectDeviceActionCellDelegate.swift; sourceTree = "<group>"; };
 		0CC79252265BCDDE00C2CDF6 /* ScheduleSceneActionAllowedProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleSceneActionAllowedProtocol.swift; sourceTree = "<group>"; };
 		0CC91FFA2B3BCAEE00EAC1E7 /* ParamSliderTableViewCell+ParamSliderCoolingControlProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ParamSliderTableViewCell+ParamSliderCoolingControlProtocol.swift"; sourceTree = "<group>"; };
-		0CCD2FAF2A121C7B00ABB680 /* MatterExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = MatterExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CCD2FB12A121C7B00ABB680 /* RequestHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestHandler.swift; sourceTree = "<group>"; };
 		0CCD2FB32A121C7B00ABB680 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0CCD2FB92A121C9200ABB680 /* ESPMatterExtDeviceManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESPMatterExtDeviceManager.swift; sourceTree = "<group>"; };
@@ -866,7 +754,6 @@
 		0CF69233270A308B0098F515 /* ESPAlexaServiceConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESPAlexaServiceConstants.swift; sourceTree = "<group>"; };
 		0CF69234270A308B0098F515 /* ESPAlexaAPIWorker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESPAlexaAPIWorker.swift; sourceTree = "<group>"; };
 		0CF69241270A34140098F515 /* AppDelegate+ESPAlexa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AppDelegate+ESPAlexa.swift"; sourceTree = "<group>"; };
-		0E78E823824B7739458B5136 /* Pods_ESPRainMaker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ESPRainMaker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1431462320DE994B0017E119 /* ESP RainMaker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ESP RainMaker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1431462620DE994B0017E119 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1431462B20DE994B0017E119 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -881,9 +768,11 @@
 		187D4B6FA979D2D3D8B7C631 /* Pods-ESPRainMaker.esprainmaker-release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMaker.esprainmaker-release.xcconfig"; path = "Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker.esprainmaker-release.xcconfig"; sourceTree = "<group>"; };
 		192928FC4D9D638278AC45AA /* Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension.esprainmaker-debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension.esprainmaker-debug.xcconfig"; path = "Target Support Files/Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension/Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension.esprainmaker-debug.xcconfig"; sourceTree = "<group>"; };
 		20EAA68DBEE10B9B45CB7E5B /* Pods-ESPRainMaker.esprainmaker-debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMaker.esprainmaker-debug.xcconfig"; path = "Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker.esprainmaker-debug.xcconfig"; sourceTree = "<group>"; };
+		26DB23B62C801AA9003903A9 /* DebuggingNetwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DebuggingNetwork.swift; sourceTree = "<group>"; };
 		26DF8B6355896260B8078FDD /* Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension.esprainmaker-release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension.esprainmaker-release.xcconfig"; path = "Target Support Files/Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension/Pods-ESPRainMaker-ESPRainMakerPushNotificationExtension.esprainmaker-release.xcconfig"; sourceTree = "<group>"; };
 		313FD51BDC80A3DF1FE5B863 /* Pods-ESPRainMaker.esprainmakermatter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMaker.esprainmakermatter.xcconfig"; path = "Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker.esprainmakermatter.xcconfig"; sourceTree = "<group>"; };
 		66CAEB32AEE5EACE93B665E9 /* Pods-ESPRainMakerPushNotificationExtension.esprainmaker-debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMakerPushNotificationExtension.esprainmaker-debug.xcconfig"; path = "Target Support Files/Pods-ESPRainMakerPushNotificationExtension/Pods-ESPRainMakerPushNotificationExtension.esprainmaker-debug.xcconfig"; sourceTree = "<group>"; };
+		948530E50057673AB1142B66 /* Pods_ESPRainMaker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ESPRainMaker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8808920A07C54C0975F1844 /* Pods-ESPRainMakerAll-ESPRainMakerTests.esprainmaker-debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMakerAll-ESPRainMakerTests.esprainmaker-debug.xcconfig"; path = "Target Support Files/Pods-ESPRainMakerAll-ESPRainMakerTests/Pods-ESPRainMakerAll-ESPRainMakerTests.esprainmaker-debug.xcconfig"; sourceTree = "<group>"; };
 		BEE7825EF97282B6DCBD38F8 /* Pods-ESPRainMakerAll-ESPRainMaker.esprainmaker-release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMakerAll-ESPRainMaker.esprainmaker-release.xcconfig"; path = "Target Support Files/Pods-ESPRainMakerAll-ESPRainMaker/Pods-ESPRainMakerAll-ESPRainMaker.esprainmaker-release.xcconfig"; sourceTree = "<group>"; };
 		EF8004A653E60197A67C5A7F /* Pods-ESPRainMakerAll-ESPRainMaker.esprainmaker-debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ESPRainMakerAll-ESPRainMaker.esprainmaker-debug.xcconfig"; path = "Target Support Files/Pods-ESPRainMakerAll-ESPRainMaker/Pods-ESPRainMakerAll-ESPRainMaker.esprainmaker-debug.xcconfig"; sourceTree = "<group>"; };
@@ -1018,7 +907,6 @@
 		F1924C35282AB7DC00E13FC8 /* ESPAutomationResponseParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ESPAutomationResponseParser.swift; sourceTree = "<group>"; };
 		F1943A7624C9DF230001564A /* ESPDays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ESPDays.swift; sourceTree = "<group>"; };
 		F194B60922CDD83200417347 /* DeviceListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceListTableViewCell.swift; sourceTree = "<group>"; };
-		F1950ED22A3B9AD50091FDAA /* RMWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = RMWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1950ED32A3B9AD50091FDAA /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		F1950ED52A3B9AD60091FDAA /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		F1950ED82A3B9AD60091FDAA /* RMWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMWidgetBundle.swift; sourceTree = "<group>"; };
@@ -1027,7 +915,6 @@
 		F1950EDD2A3B9AD90091FDAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1950EDF2A3B9AD90091FDAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F1950EE72A3B9BEA0091FDAA /* RMWidgetEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMWidgetEntryView.swift; sourceTree = "<group>"; };
-		F1950EEE2A3B9CAB0091FDAA /* SelectDeviceIntent.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = SelectDeviceIntent.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1950EEF2A3B9CAB0091FDAA /* Intents.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Intents.framework; path = System/Library/Frameworks/Intents.framework; sourceTree = SDKROOT; };
 		F1950EF22A3B9CAB0091FDAA /* IntentHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntentHandler.swift; sourceTree = "<group>"; };
 		F1950EF42A3B9CAB0091FDAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -1069,7 +956,6 @@
 		F1AC6D8227AA4CB20051F6E7 /* ScheduleTriggerTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleTriggerTableViewCell.swift; sourceTree = "<group>"; };
 		F1AC6D8A27AD54490051F6E7 /* ESPRMDeviceType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESPRMDeviceType.swift; sourceTree = "<group>"; };
 		F1AC6D8C27AD54700051F6E7 /* ESPRMDeviceType+GetImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ESPRMDeviceType+GetImage.swift"; sourceTree = "<group>"; };
-		F1AE33C3263611B300694B52 /* ESPRainMakerPushNotificationExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ESPRainMakerPushNotificationExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1AE33C5263611B300694B52 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
 		F1AE33C7263611B300694B52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F1AFB2552720320200418969 /* DeleteAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeleteAccountViewController.swift; sourceTree = "<group>"; };
@@ -1194,14 +1080,6 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0CCD2FAC2A121C7B00ABB680 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0CCD30112A121E8400ABB680 /* MatterSupport.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		1431462020DE994B0017E119 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -1209,32 +1087,8 @@
 				143146A520EA231B0017E119 /* SafariServices.framework in Frameworks */,
 				F1153F2A238E5E79009DF206 /* NetworkExtension.framework in Frameworks */,
 				143146A320EA23150017E119 /* Security.framework in Frameworks */,
-				2145B87F01D00671F6028FCC /* Pods_ESPRainMaker.framework in Frameworks */,
 				0CB4A0652A86548B00908AE0 /* Matter.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1950ECF2A3B9AD50091FDAA /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1950ED62A3B9AD60091FDAA /* SwiftUI.framework in Frameworks */,
-				F1950ED42A3B9AD60091FDAA /* WidgetKit.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1950EEB2A3B9CAB0091FDAA /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1950EF02A3B9CAB0091FDAA /* Intents.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1AE33C0263611B300694B52 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				384640AEE55B18767A17D395 /* Pods_ESPRainMaker.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1844,10 +1698,6 @@
 			children = (
 				1431462320DE994B0017E119 /* ESP RainMaker.app */,
 				F1C611A324F79804007EEFC6 /* ESP ScheduleTests.xctest */,
-				F1AE33C3263611B300694B52 /* ESPRainMakerPushNotificationExtension.appex */,
-				0CCD2FAF2A121C7B00ABB680 /* MatterExtension.appex */,
-				F1950ED22A3B9AD50091FDAA /* RMWidgetExtension.appex */,
-				F1950EEE2A3B9CAB0091FDAA /* SelectDeviceIntent.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1955,10 +1805,10 @@
 				143146A420EA231B0017E119 /* SafariServices.framework */,
 				143146A220EA23150017E119 /* Security.framework */,
 				07A32FA757DF690EF6657C35 /* Pods_ESPRainMakerAll_ESPRainMakerTests.framework */,
-				0E78E823824B7739458B5136 /* Pods_ESPRainMaker.framework */,
 				F1950ED32A3B9AD50091FDAA /* WidgetKit.framework */,
 				F1950ED52A3B9AD60091FDAA /* SwiftUI.framework */,
 				F1950EEF2A3B9CAB0091FDAA /* Intents.framework */,
+				948530E50057673AB1142B66 /* Pods_ESPRainMaker.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -2064,6 +1914,7 @@
 				F1C8082B22CA17790098F3B4 /* NetworkManager.swift */,
 				F1E46CA0253ED6B9007000FB /* ESPAPIManager.swift */,
 				F1C8F405260CDA3800A79767 /* ESPCustomJsonEncoder.swift */,
+				26DB23B62C801AA9003903A9 /* DebuggingNetwork.swift */,
 			);
 			path = AWSCognito;
 			sourceTree = "<group>";
@@ -2725,23 +2576,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0CCD2FAE2A121C7B00ABB680 /* MatterExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 0CCD2FB82A121C7B00ABB680 /* Build configuration list for PBXNativeTarget "MatterExtension" */;
-			buildPhases = (
-				0CCD2FAB2A121C7B00ABB680 /* Sources */,
-				0CCD2FAC2A121C7B00ABB680 /* Frameworks */,
-				0CCD2FAD2A121C7B00ABB680 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = MatterExtension;
-			productName = MatterExtension;
-			productReference = 0CCD2FAF2A121C7B00ABB680 /* MatterExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
 		1431462220DE994B0017E119 /* ESPRainMaker */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1431464B20DE994C0017E119 /* Build configuration list for PBXNativeTarget "ESPRainMaker" */;
@@ -2750,74 +2584,19 @@
 				1431461F20DE994B0017E119 /* Sources */,
 				1431462020DE994B0017E119 /* Frameworks */,
 				1431462120DE994B0017E119 /* Resources */,
-				BD0440008F6752DCBA91CC73 /* [CP] Embed Pods Frameworks */,
 				F1C77F0D2486DC91000CE2FE /* ShellScript */,
 				F1AE33CB263611B400694B52 /* Embed App Extensions */,
 				0C78D0002A60151400BF87EC /* Embed Frameworks */,
+				FF7FC6D707FBC331552B4BFF /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F1AE33C9263611B300694B52 /* PBXTargetDependency */,
-				0CCD2FB52A121C7B00ABB680 /* PBXTargetDependency */,
-				F1950EE32A3B9AD90091FDAA /* PBXTargetDependency */,
-				F1950EF62A3B9CAB0091FDAA /* PBXTargetDependency */,
 			);
 			name = ESPRainMaker;
 			productName = EspressifProvision;
 			productReference = 1431462320DE994B0017E119 /* ESP RainMaker.app */;
 			productType = "com.apple.product-type.application";
-		};
-		F1950ED12A3B9AD50091FDAA /* RMWidgetExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F1950EE62A3B9AD90091FDAA /* Build configuration list for PBXNativeTarget "RMWidgetExtension" */;
-			buildPhases = (
-				F1950ECE2A3B9AD50091FDAA /* Sources */,
-				F1950ECF2A3B9AD50091FDAA /* Frameworks */,
-				F1950ED02A3B9AD50091FDAA /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = RMWidgetExtension;
-			productName = RMWidgetExtension;
-			productReference = F1950ED22A3B9AD50091FDAA /* RMWidgetExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
-		F1950EED2A3B9CAB0091FDAA /* SelectDeviceIntent */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F1950EF82A3B9CAC0091FDAA /* Build configuration list for PBXNativeTarget "SelectDeviceIntent" */;
-			buildPhases = (
-				F1950EEA2A3B9CAB0091FDAA /* Sources */,
-				F1950EEB2A3B9CAB0091FDAA /* Frameworks */,
-				F1950EEC2A3B9CAB0091FDAA /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = SelectDeviceIntent;
-			productName = SelectDeviceIntent;
-			productReference = F1950EEE2A3B9CAB0091FDAA /* SelectDeviceIntent.appex */;
-			productType = "com.apple.product-type.app-extension";
-		};
-		F1AE33C2263611B300694B52 /* ESPRainMakerPushNotificationExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F1AE33CD263611B400694B52 /* Build configuration list for PBXNativeTarget "ESPRainMakerPushNotificationExtension" */;
-			buildPhases = (
-				F1AE33BF263611B300694B52 /* Sources */,
-				F1AE33C0263611B300694B52 /* Frameworks */,
-				F1AE33C1263611B300694B52 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = ESPRainMakerPushNotificationExtension;
-			productName = ESPRainMakerPushNotificationExtension;
-			productReference = F1AE33C3263611B300694B52 /* ESPRainMakerPushNotificationExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
 		};
 		F1C611A224F79804007EEFC6 /* ESP ScheduleTests */ = {
 			isa = PBXNativeTarget;
@@ -2847,9 +2626,6 @@
 				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = Espressif;
 				TargetAttributes = {
-					0CCD2FAE2A121C7B00ABB680 = {
-						CreatedOnToolsVersion = 14.3;
-					};
 					1431462220DE994B0017E119 = {
 						CreatedOnToolsVersion = 9.4.1;
 						LastSwiftMigration = 1020;
@@ -2858,15 +2634,6 @@
 								enabled = 0;
 							};
 						};
-					};
-					F1950ED12A3B9AD50091FDAA = {
-						CreatedOnToolsVersion = 14.3.1;
-					};
-					F1950EED2A3B9CAB0091FDAA = {
-						CreatedOnToolsVersion = 14.3.1;
-					};
-					F1AE33C2263611B300694B52 = {
-						CreatedOnToolsVersion = 12.3;
 					};
 					F1C611A224F79804007EEFC6 = {
 						CreatedOnToolsVersion = 11.5;
@@ -2889,22 +2656,11 @@
 			targets = (
 				1431462220DE994B0017E119 /* ESPRainMaker */,
 				F1C611A224F79804007EEFC6 /* ESP ScheduleTests */,
-				F1AE33C2263611B300694B52 /* ESPRainMakerPushNotificationExtension */,
-				0CCD2FAE2A121C7B00ABB680 /* MatterExtension */,
-				F1950ED12A3B9AD50091FDAA /* RMWidgetExtension */,
-				F1950EED2A3B9CAB0091FDAA /* SelectDeviceIntent */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0CCD2FAD2A121C7B00ABB680 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		1431462120DE994B0017E119 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2959,31 +2715,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F1950ED02A3B9AD50091FDAA /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1950EDE2A3B9AD90091FDAA /* Assets.xcassets in Resources */,
-				F1950F162A3BB93A0091FDAA /* Configuration.plist in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1950EEC2A3B9CAB0091FDAA /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1950F172A3BB93B0091FDAA /* Configuration.plist in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1AE33C1263611B300694B52 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F14491D526C52A5A008817C7 /* Configuration.plist in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		F1C611A124F79804007EEFC6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3016,23 +2747,6 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		BD0440008F6752DCBA91CC73 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		F1C77F0D2486DC91000CE2FE /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -3050,21 +2764,26 @@
 			shellPath = /bin/sh;
 			shellScript = "\n\n#  gitversioning.sh\n#  \n#\n#  Created by sig on 28.10.13.\n#\n\nversion=$(git rev-parse --verify HEAD | cut -c 1-7)\ncurdate=$(date +\"%d.%m.%y\")\n\nfilesource=\"//\\n//  GitVersion.h\\n\\n\\n#ifndef GitVersion_h\\n#define GitVersion_h\\n\\n#define GIT_SHA_VERSION @\\\"$version\\\"\\n\\n#endif\"\n\ntouch $SRCROOT/ESPRainMaker/Resources/GitVersion.h\necho \"$filesource\" > $SRCROOT/ESPRainMaker/Resources/GitVersion.h\n\n";
 		};
+		FF7FC6D707FBC331552B4BFF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ESPRainMaker/Pods-ESPRainMaker-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0CCD2FAB2A121C7B00ABB680 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0C45AC842BA02C5E00BF8FDF /* Extensions.swift in Sources */,
-				0CCD2FBE2A121C9300ABB680 /* ESPMatterExtensionEcoInfo.swift in Sources */,
-				0CCD2FB22A121C7B00ABB680 /* RequestHandler.swift in Sources */,
-				0CCD2FBD2A121C9300ABB680 /* ESPMatterExtDeviceManager.swift in Sources */,
-				0CCD2FBF2A121C9300ABB680 /* ESPMatterExtLocalStorage.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		1431461F20DE994B0017E119 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3146,6 +2865,7 @@
 				F1AC6D8327AA4CB20051F6E7 /* ScheduleTriggerTableViewCell.swift in Sources */,
 				F16A9F5329CC66D30009F839 /* Date+Seconds.swift in Sources */,
 				0C31C3062BB3F565009ABB22 /* ClusterSelectionViewController.swift in Sources */,
+				26DB23B72C801AA9003903A9 /* DebuggingNetwork.swift in Sources */,
 				F1C352D026DBC40900A88893 /* ESPLocalDevice.swift in Sources */,
 				0CAC43DA2C466AA60047B1DB /* ESPScannerViewController.swift in Sources */,
 				F1CC12542780FC640007634C /* ESPYAxisGenerator.swift in Sources */,
@@ -3509,90 +3229,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F1950ECE2A3B9AD50091FDAA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1950EDB2A3B9AD60091FDAA /* RMWidget.swift in Sources */,
-				F1950F122A3B9F360091FDAA /* ESPConfiguration.swift in Sources */,
-				F1950ED92A3B9AD60091FDAA /* RMWidgetBundle.swift in Sources */,
-				F1950EE92A3B9C300091FDAA /* RMWidgetEntryView.swift in Sources */,
-				F1950F092A3B9E670091FDAA /* ESPLocalStorageNodes+GetNode.swift in Sources */,
-				F1950F002A3B9E130091FDAA /* Attribute.swift in Sources */,
-				F1950EFF2A3B9E100091FDAA /* Node.swift in Sources */,
-				F1950EFD2A3B9E0B0091FDAA /* NodeExtension.swift in Sources */,
-				F1950F072A3B9E640091FDAA /* ESPLocalStorageNodes+DeviceList.swift in Sources */,
-				F1950F0D2A3B9E770091FDAA /* ESPLocalStorageProtocol.swift in Sources */,
-				F1950EFC2A3B9D640091FDAA /* RMIntentConstants.swift in Sources */,
-				F1950EFE2A3B9E0E0091FDAA /* Device.swift in Sources */,
-				F1950F0B2A3B9E730091FDAA /* ESPLocalStorage.swift in Sources */,
-				F1950F052A3B9E590091FDAA /* Int+ShortDate.swift in Sources */,
-				F1950F1A2A4044380091FDAA /* NSNumber+ShortDate.swift in Sources */,
-				F1950EE02A3B9AD90091FDAA /* RMWidget.intentdefinition in Sources */,
-				F1950F0F2A3B9E7A0091FDAA /* ESPLocalStorageNodes.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1950EEA2A3B9CAB0091FDAA /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1950F082A3B9E650091FDAA /* ESPLocalStorageNodes+DeviceList.swift in Sources */,
-				F1950F012A3B9E150091FDAA /* Attribute.swift in Sources */,
-				F1950F102A3B9E7A0091FDAA /* ESPLocalStorageNodes.swift in Sources */,
-				F1950F132A3B9F370091FDAA /* ESPConfiguration.swift in Sources */,
-				F1950F0C2A3B9E730091FDAA /* ESPLocalStorage.swift in Sources */,
-				F1950F192A4044320091FDAA /* NSNumber+ShortDate.swift in Sources */,
-				F1950F112A3B9E920091FDAA /* RMWidget.intentdefinition in Sources */,
-				F1950EFB2A3B9D1D0091FDAA /* RMIntentConstants.swift in Sources */,
-				F1950EF32A3B9CAB0091FDAA /* IntentHandler.swift in Sources */,
-				F1950F0E2A3B9E770091FDAA /* ESPLocalStorageProtocol.swift in Sources */,
-				F1950F042A3B9E1D0091FDAA /* NodeExtension.swift in Sources */,
-				F1950F022A3B9E180091FDAA /* Node.swift in Sources */,
-				F1950F0A2A3B9E680091FDAA /* ESPLocalStorageNodes+GetNode.swift in Sources */,
-				F1950F032A3B9E1A0091FDAA /* Device.swift in Sources */,
-				F1950F062A3B9E590091FDAA /* Int+ShortDate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F1AE33BF263611B300694B52 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F1C76D842689870C009E217D /* ESPNotificationHandler.swift in Sources */,
-				F1B2D21A27F6D64D00AE143D /* ESPAutomationTriggerEvent.swift in Sources */,
-				F1B1012526A764E6004B5537 /* ESPNodeDisassociatedEvent.swift in Sources */,
-				0C2426DC2BF4A597004BDF49 /* ESPNodeGroupSharingAcceptedEvent.swift in Sources */,
-				F1C76D7F2689848B009E217D /* Array<String>+CombinedString.swift in Sources */,
-				F19EF8B22684640100CC7D3E /* Attribute.swift in Sources */,
-				F1124F65268D099300FA0B9E /* ESPNodeSharingAcceptedEvent.swift in Sources */,
-				F1C76D6E2688ABF2009E217D /* ESPLocalStorageNodes.swift in Sources */,
-				F1C76D83268986F3009E217D /* ESPLocalStorageNodes+DeviceList.swift in Sources */,
-				F1AE33C6263611B300694B52 /* NotificationService.swift in Sources */,
-				F1C76D5E2687E2B8009E217D /* ESPNodeConnectedEvent.swift in Sources */,
-				0C2426DF2BF4A5B6004BDF49 /* ESPNodeGroupSharingDeclinedEvent.swift in Sources */,
-				F1C76D82268986F1009E217D /* ESPNotificationProtocol.swift in Sources */,
-				F1C76D702688AC34009E217D /* Int+ShortDate.swift in Sources */,
-				F1124F68268D0A0900FA0B9E /* ESPNodeSharingDeclinedEvent.swift in Sources */,
-				0CD359A02A2D49E60081017C /* NodeExtension.swift in Sources */,
-				F1B1012126A47111004B5537 /* ESPNotificationKeys.swift in Sources */,
-				F1676F88269626F9005C22CB /* ESPNotifications.swift in Sources */,
-				F1C76D6C2688ABE9009E217D /* ESPLocalStorageProtocol.swift in Sources */,
-				0C78CFFD2A5ED48000BF87EC /* ESPConfiguration.swift in Sources */,
-				F1B1012426A7648F004B5537 /* ESPNodeAssociatedEvent.swift in Sources */,
-				0C4BC0462BD8F03B00560463 /* ESPNodeGroupSharingAddEvent.swift in Sources */,
-				F1DF2E33268ADB8300D3C8D6 /* ESPNodeDisconnectedEvent.swift in Sources */,
-				0C69D72626E9ED4500AF6985 /* Device.swift in Sources */,
-				F1124F6B268D0AAD00FA0B9E /* ESPNodeAlertEvent.swift in Sources */,
-				0C69D72426E9ED4500AF6985 /* Node.swift in Sources */,
-				F1C76D6D2688ABEE009E217D /* ESPLocalStorage.swift in Sources */,
-				F1DF2E36268AF7A400D3C8D6 /* ESPNodeSharingAddEvent.swift in Sources */,
-				F1C352CE26D56CC800A88893 /* ESPLocalStorageNodes+GetNode.swift in Sources */,
-				F1C76D80268986DA009E217D /* ESPNotificationEvent.swift in Sources */,
-				F1676F89269735B4005C22CB /* ESPNotificationsStore.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		F1C6119F24F79804007EEFC6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -3603,26 +3239,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0CCD2FB52A121C7B00ABB680 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 0CCD2FAE2A121C7B00ABB680 /* MatterExtension */;
-			targetProxy = 0CCD2FB42A121C7B00ABB680 /* PBXContainerItemProxy */;
-		};
-		F1950EE32A3B9AD90091FDAA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F1950ED12A3B9AD50091FDAA /* RMWidgetExtension */;
-			targetProxy = F1950EE22A3B9AD90091FDAA /* PBXContainerItemProxy */;
-		};
-		F1950EF62A3B9CAB0091FDAA /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F1950EED2A3B9CAB0091FDAA /* SelectDeviceIntent */;
-			targetProxy = F1950EF52A3B9CAB0091FDAA /* PBXContainerItemProxy */;
-		};
-		F1AE33C9263611B300694B52 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F1AE33C2263611B300694B52 /* ESPRainMakerPushNotificationExtension */;
-			targetProxy = F1AE33C8263611B300694B52 /* PBXContainerItemProxy */;
-		};
 		F1C611A924F79804007EEFC6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 1431462220DE994B0017E119 /* ESPRainMaker */;
@@ -3674,87 +3290,6 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		0CCD2FB72A121C7B00ABB680 /* ESPRainMaker-Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = MatterExtension/MatterExtension.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MatterExtension/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = MatterExtension;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2023 Espressif. All rights reserved.";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.MatterExtension;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = "ESPRainMaker-Release";
-		};
 		0CCF31532A42DDE400214A57 /* ESPRainMakerMatter */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -3821,13 +3356,16 @@
 			baseConfigurationReference = 313FD51BDC80A3DF1FE5B863 /* Pods-ESPRainMaker.esprainmakermatter.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ARCHS = arm64;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = ESPRainMaker/ESPRainMaker.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = ZQ9N93F7GF;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3836,7 +3374,7 @@
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
 				INFOPLIST_FILE = ESPRainMaker/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_MAP_FILE_PATH = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -3844,11 +3382,12 @@
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				MARKETING_VERSION = 3.2.1;
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_SWIFT_FLAGS = "$(inherited) -D ESPRainMakerMatter";
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.com.minstone.example;
 				PRODUCT_NAME = "ESP RainMaker";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = WilecardDevelopment;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
 				SWIFT_ENFORCE_EXCLUSIVE_ACCESS = off;
 				SWIFT_OBJC_BRIDGING_HEADER = "ESPRainMaker/ESPRainMaker-Bridging-Header.h";
@@ -3892,10 +3431,10 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -3922,173 +3461,15 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.espressif.ESP-ScheduleTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.com.minstone.example.ESP-ScheduleTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ESP Schedule.app/ESP Schedule";
-			};
-			name = ESPRainMakerMatter;
-		};
-		0CCF31562A42DDE400214A57 /* ESPRainMakerMatter */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = ESPRainMakerPushNotificationExtension/ESPRainMakerPushNotificationExtension.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = ESPRainMakerPushNotificationExtension/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 2.4.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.ESPRainMakerPushNotificationExtension;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = ESPRainMakerMatter;
-		};
-		0CCF31572A42DDE400214A57 /* ESPRainMakerMatter */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = MatterExtension/MatterExtension.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = MatterExtension/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = MatterExtension;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2023 Espressif. All rights reserved.";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.MatterExtension;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = ESPRainMakerMatter;
 		};
@@ -4158,13 +3539,16 @@
 			baseConfigurationReference = 187D4B6FA979D2D3D8B7C631 /* Pods-ESPRainMaker.esprainmaker-release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ARCHS = arm64;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = ESPRainMaker/ESPRainMaker.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = ZQ9N93F7GF;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -4173,7 +3557,7 @@
 				);
 				GCC_PREPROCESSOR_DEFINITIONS = "$(inherited)";
 				INFOPLIST_FILE = ESPRainMaker/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_MAP_FILE_PATH = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -4181,11 +3565,12 @@
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				MARKETING_VERSION = 3.2.1;
-				ONLY_ACTIVE_ARCH = NO;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_SWIFT_FLAGS = "$(inherited) -DPROD";
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.com.minstone.example;
 				PRODUCT_NAME = "ESP RainMaker";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = WilecardDevelopment;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "";
 				SWIFT_ENFORCE_EXCLUSIVE_ACCESS = off;
 				SWIFT_OBJC_BRIDGING_HEADER = "ESPRainMaker/ESPRainMaker-Bridging-Header.h";
@@ -4193,303 +3578,6 @@
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALID_ARCHS = "arm64 arm64e armv7s armv7 x86_64";
-			};
-			name = "ESPRainMaker-Release";
-		};
-		F1950EE52A3B9AD90091FDAA /* ESPRainMaker-Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = RMWidget/RMWidgetExtension.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RMWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = RMWidget;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2023 Espressif. All rights reserved.";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.RMWidget;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = "ESPRainMaker-Release";
-		};
-		F1950EF92A3B9CAC0091FDAA /* ESPRainMaker-Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = SelectDeviceIntent/SelectDeviceIntent.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SelectDeviceIntent/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SelectDeviceIntent;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2023 Espressif. All rights reserved.";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.SelectDeviceIntent;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = "ESPRainMaker-Release";
-		};
-		F19734F92AA8381C00DE6427 /* ESPRainMakerMatter */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CODE_SIGN_ENTITLEMENTS = RMWidget/RMWidgetExtension.entitlements;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_TESTABILITY = YES;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RMWidget/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				MARKETING_VERSION = 1.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.RMWidget;
-				PRODUCT_NAME = RMWidgetExtension;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = ESPRainMakerMatter;
-		};
-		F19734FA2AA8381C00DE6427 /* ESPRainMakerMatter */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
-				CODE_SIGN_ENTITLEMENTS = SelectDeviceIntent/SelectDeviceIntent.entitlements;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_TESTABILITY = YES;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"$(inherited)",
-					"DEBUG=1",
-				);
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SelectDeviceIntent/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SelectDeviceIntent;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2023 Espressif. All rights reserved.";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				MARKETING_VERSION = 1.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.SelectDeviceIntent;
-				PRODUCT_NAME = SelectDeviceIntent;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-			};
-			name = ESPRainMakerMatter;
-		};
-		F1AE33CC263611B400694B52 /* ESPRainMaker-Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
-				CLANG_CXX_LIBRARY = "libc++";
-				CLANG_ENABLE_MODULES = YES;
-				CLANG_ENABLE_OBJC_ARC = YES;
-				CLANG_ENABLE_OBJC_WEAK = YES;
-				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
-				CLANG_WARN_BOOL_CONVERSION = YES;
-				CLANG_WARN_COMMA = YES;
-				CLANG_WARN_CONSTANT_CONVERSION = YES;
-				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
-				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
-				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				CLANG_WARN_EMPTY_BODY = YES;
-				CLANG_WARN_ENUM_CONVERSION = YES;
-				CLANG_WARN_INFINITE_RECURSION = YES;
-				CLANG_WARN_INT_CONVERSION = YES;
-				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
-				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
-				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
-				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
-				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
-				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
-				CLANG_WARN_STRICT_PROTOTYPES = YES;
-				CLANG_WARN_SUSPICIOUS_MOVE = YES;
-				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
-				CLANG_WARN_UNREACHABLE_CODE = YES;
-				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_ENTITLEMENTS = ESPRainMakerPushNotificationExtension/ESPRainMakerPushNotificationExtension.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COPY_PHASE_STRIP = NO;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				ENABLE_TESTABILITY = YES;
-				GCC_C_LANGUAGE_STANDARD = gnu11;
-				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_OPTIMIZATION_LEVEL = 0;
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
-				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
-				GCC_WARN_UNDECLARED_SELECTOR = YES;
-				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
-				GCC_WARN_UNUSED_FUNCTION = YES;
-				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = ESPRainMakerPushNotificationExtension/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 2.4.0;
-				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
-				MTL_FAST_MATH = YES;
-				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.espressif.rainmaker.softap.ESPRainMakerPushNotificationExtension;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = "ESPRainMaker-Release";
 		};
@@ -4526,10 +3614,10 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = QWXF6GB4AV;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
@@ -4556,8 +3644,9 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.espressif.ESP-ScheduleTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "cn.com.minstone.example.ESP-ScheduleTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -4570,15 +3659,6 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0CCD2FB82A121C7B00ABB680 /* Build configuration list for PBXNativeTarget "MatterExtension" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				0CCD2FB72A121C7B00ABB680 /* ESPRainMaker-Release */,
-				0CCF31572A42DDE400214A57 /* ESPRainMakerMatter */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "ESPRainMaker-Release";
-		};
 		1431461E20DE994B0017E119 /* Build configuration list for PBXProject "ESPRainMaker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -4593,33 +3673,6 @@
 			buildConfigurations = (
 				F172D299234352D3005F687A /* ESPRainMaker-Release */,
 				0CCF31542A42DDE400214A57 /* ESPRainMakerMatter */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "ESPRainMaker-Release";
-		};
-		F1950EE62A3B9AD90091FDAA /* Build configuration list for PBXNativeTarget "RMWidgetExtension" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F1950EE52A3B9AD90091FDAA /* ESPRainMaker-Release */,
-				F19734F92AA8381C00DE6427 /* ESPRainMakerMatter */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "ESPRainMaker-Release";
-		};
-		F1950EF82A3B9CAC0091FDAA /* Build configuration list for PBXNativeTarget "SelectDeviceIntent" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F1950EF92A3B9CAC0091FDAA /* ESPRainMaker-Release */,
-				F19734FA2AA8381C00DE6427 /* ESPRainMakerMatter */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = "ESPRainMaker-Release";
-		};
-		F1AE33CD263611B400694B52 /* Build configuration list for PBXNativeTarget "ESPRainMakerPushNotificationExtension" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F1AE33CC263611B400694B52 /* ESPRainMaker-Release */,
-				0CCF31562A42DDE400214A57 /* ESPRainMakerMatter */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = "ESPRainMaker-Release";

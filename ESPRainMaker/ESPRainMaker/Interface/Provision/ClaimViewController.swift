@@ -18,8 +18,9 @@
 
 import ESPProvision
 import UIKit
+#if canImport(ThreadNetwork)
 import ThreadNetwork
-
+#endif
 class ClaimViewController: UIViewController {
     @IBOutlet var progressIndicator: UILabel!
     @IBOutlet var failureLabel: UILabel!

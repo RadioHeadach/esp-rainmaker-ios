@@ -33,7 +33,7 @@ class ESPOTAAPIWorker {
             ])
             let configuration = URLSessionConfiguration.default
             configuration.timeoutIntervalForRequest = 10
-            session = Session(configuration: configuration, serverTrustManager: trustManager)
+            session = Session(configuration: configuration, serverTrustManager: trustManager, eventMonitors: [LoggingEventMonitor()])
             session.sessionConfiguration.timeoutIntervalForRequest = 10
             session.sessionConfiguration.timeoutIntervalForResource = 10
         }
